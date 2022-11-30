@@ -1,3 +1,9 @@
+
+
+
+
+
+
 ![Capture](https://user-images.githubusercontent.com/86624642/204682078-37066bb6-94a5-46ce-a0e4-fb43addd938e.PNG)
 
 
@@ -43,7 +49,10 @@
 [![Medium Badge](https://img.shields.io/badge/Md%20M%20Uddin-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Md_M_Uddin)]( https://medium.com/@Md_M_Uddin)
 [![Gmail Badge](https://img.shields.io/badge/-uddin.md.minhaj2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uddin.md.minhaj2001@gmail.com)](mailto:uddin.md.minhaj2001@gmail.com)
 
-## ⚡ Technologies
+## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  Technologies ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
+
+
+
 
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -61,9 +70,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
 
