@@ -45,9 +45,16 @@
 
                       💙 Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
-[![Linkedin Badge](https://img.shields.io/badge/Md%20M%20Uddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/https://www.linkedin.com/in/md-m-uddin-devops/)](linkedin.com/in/https://www.linkedin.com/in/md-m-uddin-devops/)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/Md%20M%20Uddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-m-uddin-devops/)](https://www.linkedin.com/in/md-m-uddin-devops/)
 [![Medium Badge](https://img.shields.io/badge/Md%20M%20Uddin-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Md_M_Uddin)]( https://medium.com/@Md_M_Uddin)
 [![Gmail Badge](https://img.shields.io/badge/-uddin.md.minhaj2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uddin.md.minhaj2001@gmail.com)](mailto:uddin.md.minhaj2001@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub/Md%20M%20Uddin-181717?style=flat-square&logo=github&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://-github.com%20Md-M-Uddi)](https://github.com/Md-M-Uddi)
+[![Githlab Badge](https://img.shields.io/badge/-Gitlab%20Md%20M%20Uddin-E44C30?style=flat-square&logo=gitlab&logoColor=white=gitlab&logoColor=white=gitlab&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab/Md_M_Uddin)](https://gitlab.com/Md_M_Uddin)
+
+
+
 
 ## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  Technologies ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
 
@@ -72,7 +79,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=merko)
 
 
+
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor&theme=highcontrast)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
 
