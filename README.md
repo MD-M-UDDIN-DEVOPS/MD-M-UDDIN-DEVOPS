@@ -9,7 +9,7 @@
 
 
        
-                                  Hey y'all 👋 My Name is Md Minhaj Uddin - it's nice to meet you!
+## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png) Hey y'all 👋 My Name is Md Minhaj Uddin - it's nice to meet you! ## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  Technologies ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
+## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)                                                                                                                                                                                     Technologies ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
 
 
 
@@ -80,7 +80,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=merko)
-
 
 
 
