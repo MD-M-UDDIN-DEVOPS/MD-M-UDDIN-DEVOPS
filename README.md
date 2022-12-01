@@ -47,11 +47,11 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Md%20M%20Uddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-m-uddin-devops/)](https://www.linkedin.com/in/md-m-uddin-devops/)
-[![Medium Badge](https://img.shields.io/badge/Md%20M%20Uddin-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Md_M_Uddin)]( https://medium.com/@Md_M_Uddin)
-[![Gmail Badge](https://img.shields.io/badge/-uddin.md.minhaj2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uddin.md.minhaj2001@gmail.com)](mailto:uddin.md.minhaj2001@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub/Md%20M%20Uddin-181717?style=flat-square&logo=github&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://-github.com%20Md-M-Uddi)](https://github.com/Md-M-Uddi)
-[![Githlab Badge](https://img.shields.io/badge/-Gitlab%20Md%20M%20Uddin-E44C30?style=flat-square&logo=gitlab&logoColor=white=gitlab&logoColor=white=gitlab&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab/Md_M_Uddin)](https://gitlab.com/Md_M_Uddin)
+[![Linkedin Badge](https://img.shields.io/badge/Md%20M%20Uddin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-m-uddin-devops/)](https://www.linkedin.com/in/md-m-uddin-devops/)
+[![Medium Badge](https://img.shields.io/badge/Md%20M%20Uddin-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Md_M_Uddin)]( https://medium.com/@Md_M_Uddin)
+[![Gmail Badge](https://img.shields.io/badge/-uddin.md.minhaj2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:uddin.md.minhaj2001@gmail.com)](mailto:uddin.md.minhaj2001@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub/Md%20M%20Uddin-black?style=for-the-badge&logo=github&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://-github.com%20Md-M-Uddi)](https://github.com/Md-M-Uddi)
+[![Githlab Badge](https://img.shields.io/badge/-Gitlab%20Md%20M%20Uddin-E44C30?style=for-the-badge&logo=gitlab&logoColor=white=gitlab&logoColor=white=gitlab&logoColor=white/Md%20M%20Uddin-12100E?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab/Md_M_Uddin)](https://gitlab.com/Md_M_Uddin)
 
 
 
@@ -63,12 +63,11 @@
 
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -80,9 +79,7 @@
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PostSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 
