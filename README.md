@@ -84,12 +84,13 @@
 
 
 
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=highcontrast)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&TeX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor&theme=highcontrast)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor&theme&for-the-badge&logo=highcontrast)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
 
