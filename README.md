@@ -1,6 +1,6 @@
 
 
-![Md m uddin(6)](https://user-images.githubusercontent.com/86624642/206249073-1fe7509d-f92b-442d-9eff-a6d69d1b236c.png)
+![2](https://user-images.githubusercontent.com/86624642/206302820-317bb90c-a45a-460f-bc03-63865a774f24.jpg)
 
 
 
@@ -79,7 +79,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![CentOS](https://img.shields.io/badge/Cent%20OS-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
