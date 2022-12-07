@@ -1,10 +1,8 @@
 
 
+![Md m uddin(6)](https://user-images.githubusercontent.com/86624642/206249073-1fe7509d-f92b-442d-9eff-a6d69d1b236c.png)
 
 
-
-
-![Capture](https://user-images.githubusercontent.com/86624642/204682078-37066bb6-94a5-46ce-a0e4-fb43addd938e.PNG)
 
 
 
@@ -94,8 +92,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=highcontrast)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&TeX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor&theme&for-the-badge&logo=highcontrast)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
