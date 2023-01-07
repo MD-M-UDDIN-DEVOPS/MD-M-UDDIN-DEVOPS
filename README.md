@@ -1,4 +1,4 @@
-
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-M-Uddi" alt="Md-M-Uddi" /></a> </p>
 
 ![2](https://user-images.githubusercontent.com/86624642/206302820-317bb90c-a45a-460f-bc03-63865a774f24.jpg)
 
@@ -87,6 +87,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![LEVEL UP(2)](https://user-images.githubusercontent.com/86624642/205420807-1d0fd7f7-d505-4148-9e5a-d496457a1bbb.jpg)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
