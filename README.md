@@ -1,8 +1,6 @@
-
- <a href="https://github.com/Md-M-Uddi/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Md-M-Uddi/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/Md-M-Uddi/github-profile-trophy">
-
-<p align="center"> <a href="https://github.com/Md-M-Uddi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-M-Uddi&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ![2](https://user-images.githubusercontent.com/86624642/206302820-317bb90c-a45a-460f-bc03-63865a774f24.jpg)
