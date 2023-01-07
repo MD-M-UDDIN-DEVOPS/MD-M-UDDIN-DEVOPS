@@ -12,7 +12,7 @@
 
 
        
-## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png) Hey y'all 👋 My Name is Md Minhaj Uddin - it's nice to meet you!![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)
+## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png) 𝐇𝐞𝐲 𝐲'𝐚𝐥𝐥 👋 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐌𝐝 𝐌𝐢𝐧𝐡𝐚𝐣 𝐔𝐝𝐝𝐢𝐧 - 𝐢𝐭'𝐬 𝐧𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲𝐨𝐮![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)
 
 
 
@@ -46,7 +46,7 @@
 •	🍔I love Kabab Arabic Food and all junk food really, and I strive to have the most fun everyday!
 
 
-                      💙 Thank you for reading my bio! Follow me with the links below & let's collaborate!
+                      💖 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐦𝐲 𝐛𝐢𝐨! 𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤𝐬 𝐛𝐞𝐥𝐨𝐰 & 𝐥𝐞𝐭'𝐬 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞!! 💖
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-## ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)                                                                                                                                                                                     Technologies ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
+## <p align="center"> ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)                                                                                                                                                                                   🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂 ![agile](https://user-images.githubusercontent.com/86624642/204691171-2ac8cf85-fec2-43da-a171-e16e3ff99610.png) ![data-science(2)](https://user-images.githubusercontent.com/86624642/204690893-ab0a64ea-d7c6-46c3-8ea2-cb4e0746e6a1.png) ![cloud](https://user-images.githubusercontent.com/86624642/204691021-eb7f8431-e850-4696-a02b-600e7f1f02f9.png)  
 
 
 
