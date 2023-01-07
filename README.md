@@ -1,4 +1,9 @@
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-M-Uddi" alt="Md-M-Uddi" /></a> </p>
+
+ <a href="https://github.com/Md-M-Uddi/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Md-M-Uddi/github-profile-trophy">
+
+<p align="center"> <a href="https://github.com/Md-M-Uddi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-M-Uddi&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 ![2](https://user-images.githubusercontent.com/86624642/206302820-317bb90c-a45a-460f-bc03-63865a774f24.jpg)
 
@@ -94,7 +99,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=highcontrast)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&TeX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&TeX&layout=compact&theme=dark)](https://github.com/Md-M-Uddi/github-readme-stats)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Md-M-Uddi%2FMd-M-Uddi&label=VISITORS&countColor&theme&for-the-badge&logo=highcontrast)](https://visitorbadge.io/status?path=Md-M-Uddi%2Md-M-Uddi)
 
