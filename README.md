@@ -98,9 +98,9 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Md-M-Uddi&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MD-M-UDDIN-DEVOPS&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-M-Uddi&hide=TeX&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-M-UDDIN-DEVOPS&hide=TeX&layout=compact&theme=highcontrast)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&TeX&layout=compact&theme=dark)](https://github.com/Md-M-Uddi/github-readme-stats)
 
