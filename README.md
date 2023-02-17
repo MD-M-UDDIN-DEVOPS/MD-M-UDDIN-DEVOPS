@@ -3,7 +3,7 @@
    <p align="center"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=matrix&no-frame=true"/>
 </a>
 
-![git pic](https://user-images.githubusercontent.com/86624642/211986962-93519846-500b-4654-9c40-23d9579ffebc.png)
+![AWS Developer pic](https://user-images.githubusercontent.com/86624642/219792918-1af1b4e7-1901-4d2c-be43-f20a036d13cf.JPG)
 
 
 
