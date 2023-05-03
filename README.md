@@ -3,7 +3,7 @@
    <p align="center"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=matrix&no-frame=true"/>
 </a>
 
-![New with Luit Banner](https://user-images.githubusercontent.com/86624642/224211506-29e57569-3b6f-4c29-ac4e-350cb2c493de.JPG)
+<img width="791" alt="Screenshot 2023-05-03 at 9 09 31 AM" src="https://user-images.githubusercontent.com/86624642/235925552-13f46329-dca4-44d9-8d9c-c648eae964f3.png">
 
 
 
