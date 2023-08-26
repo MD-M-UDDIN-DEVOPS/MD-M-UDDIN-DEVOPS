@@ -3,8 +3,7 @@
    <p align="center"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=matrix&no-frame=true"/>
 </a>
 
-<img width="791" alt="Screenshot 2023-05-03 at 9 09 31 AM" src="https://user-images.githubusercontent.com/86624642/235925552-13f46329-dca4-44d9-8d9c-c648eae964f3.png">
-
+![git (1)](https://github.com/MD-M-UDDIN-DEVOPS/MD-M-UDDIN-DEVOPS/assets/86624642/e79d73c7-79d1-4263-9297-b1fac0b4858a)
 
 
 
