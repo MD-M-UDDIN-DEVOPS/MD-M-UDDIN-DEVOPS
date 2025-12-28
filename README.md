@@ -96,7 +96,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
  
-![LEVEL UP(2)](https://user-images.githubusercontent.com/86624642/205420807-1d0fd7f7-d505-4148-9e5a-d496457a1bbb.jpg)
 
 
 
